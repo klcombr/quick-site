@@ -1,0 +1,15 @@
+{
+  "business_name": "Serralheria Status",
+  "tagline": "Qualidade e confiança em alumínio",
+  "phone": "(13) 3491-3574",
+  "whatsapp": "551334913574",
+  "address": "Rua dos Ipês, 100 - Centro, Praia Grande/SP",
+  "working_hours": "Seg-Sex: 8h às 18h",
+  "services": [
+    {"name": "Portões", "description": "Portões de alumínio sob medida"},
+    {"name": "Janelas", "description": "Janelas e vidros temperados"},
+    {"name": "Manutenção", "description": "Conserto e ajustes"}
+  ],
+  "primary_color": "#ff2222",
+  "background": "#000000"
+}
